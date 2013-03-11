@@ -1,0 +1,12 @@
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\bin\Debug\moodPlayer.exe.config
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\bin\Debug\moodPlayer.exe
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\bin\Debug\moodPlayer.pdb
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\obj\Debug\moodPlayer.Form1.resources
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\obj\Debug\moodPlayer.Properties.Resources.resources
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\obj\Debug\moodPlayer.csproj.GenerateResource.Cache
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\obj\Debug\moodPlayer.exe
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\obj\Debug\moodPlayer.pdb
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\obj\Debug\moodPlayer.MoodGraph.resources
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\obj\Debug\moodPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mukul\Desktop\Computational Creativity\moodPlayer\moodPlayer\moodPlayer\obj\Debug\moodPlayer.csproj.ResolveComReference.cache
